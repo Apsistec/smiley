@@ -1,0 +1,27 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "React example starter project",
+  "keywords": [
+    "react",
+    "starter"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "@types/d3": "6.3.0",
+    "@types/react": "17.0.2",
+    "@types/react-dom": "17.0.1",
+    "d3": "6.5.0",
+    "eslint": "7.20.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "typescript": "4.2.2"
+  },
+  "devDependencies": {},
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
